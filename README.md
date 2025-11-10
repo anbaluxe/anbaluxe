@@ -7,7 +7,7 @@ Frontend developer
 My journey began with the desire to write my own website. After studying HTML and CSS, I completed my task by half, because there was no logic. That's how my journey into programming and acquaintance with JavaScript began. After several websites and games, I started getting acquainted with popular libraries and came to React. My confident path in frontend development is ~6 months.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [anbaluxe@gmail.com](mailto:anbaluxe@gmail.com)[@anbalof](https://t.me/anbalof/)
+* ✉️  You can contact me at [anbaluxe@gmail.com](mailto:anbaluxe@gmail.com), [@anbalof](https://t.me/anbalof/)
 * 🚀  I'm currently working on [Currency Exchange Calculator](http://anbaluxe.github.io/currency-converter/)
 * 🧠  I'm currently learning TypeScript
 * 💬  Ask me about The most ambitious project of 2001 according to my grandmother
